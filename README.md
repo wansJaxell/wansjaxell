@@ -3,7 +3,7 @@
 **AI Operations & Workflow Automation** · Istanbul, Türkiye · Open to remote roles
 
 12+ years in engineering and operations leadership: production planning, SAP ERP
-and process quality (Six Sigma Green Belt). Now I build AI-driven automations,
+and process quality (Six Sigma Black Belt). Now I build AI-driven automations,
 LLM integrations and Python data tools.
 
 ### What I work with
