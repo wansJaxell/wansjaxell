@@ -12,6 +12,9 @@ LLM integrations and Python data tools.
 - **Python & Data:** Pandas, NumPy, scikit-learn, Matplotlib, Streamlit
 - **Process & Quality:** Six Sigma, Lean, ISO 9001, Agile / Scrum
 
+### Featured projects
+- **[BIST Stock Screener](https://github.com/wansjaxell/bist-stock-screener)**: Ranks Borsa Istanbul stocks by technical, valuation and quality scores, with 1- and 3-month trend projections. Python · pandas · Streamlit · pytest
+
 ### Certifications
 - **IBM:** Python for Data Science & AI, Data Analysis, Data Visualization,
   Machine Learning, Data Science Methodology
