@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi, I'm Aykut Uçar
 
-<!--
-**wansJaxell/wansjaxell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Operations & Workflow Automation** · Istanbul, Türkiye · Open to remote roles
 
-Here are some ideas to get you started:
+12+ years in engineering and operations leadership: production planning, SAP ERP
+and process quality (Six Sigma Green Belt). Now I build AI-driven automations,
+LLM integrations and Python data tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+- **AI & LLM:** OpenAI and Claude APIs, prompt engineering, local open-weights LLMs
+- **Automation:** n8n, Make.com, REST APIs, webhooks, Telegram bots
+- **Python & Data:** Pandas, NumPy, scikit-learn, Matplotlib, Streamlit
+- **Process & Quality:** Six Sigma, Lean, ISO 9001, Agile / Scrum
+
+### Certifications
+- **IBM:** Python for Data Science & AI, Data Analysis, Data Visualization,
+  Machine Learning, Data Science Methodology
+- **Google:** Project Management Professional Certificate, Foundations of UX Design
+- Six Sigma Black Belt
+
+### Contact
+aykut.ucar11@gmail.com 
