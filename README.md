@@ -14,6 +14,7 @@ LLM integrations and Python data tools.
 
 ### Featured projects
 - **[BIST Stock Screener](https://github.com/wansjaxell/bist-stock-screener)**: Ranks Borsa Istanbul stocks by technical, valuation and quality scores, with 1- and 3-month trend projections. Python · pandas · Streamlit · pytest
+- **[Playwright Test Automation](https://github.com/wansjaxell/playwright-test-automation)**: 19 end-to-end UI tests with Page Object Model, CI on GitHub Actions and AI-drafted test cases. Python · Playwright · pytest
 
 ### Certifications
 - **IBM:** Python for Data Science & AI, Data Analysis, Data Visualization,
